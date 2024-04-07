@@ -12,7 +12,7 @@
 
 - 📄 Learn about my experiences: [https://jeffreyhuang.me/JeffreyResume.pdf](https://jeffreyhuang.me/JeffreyResume.pdf)
 
-- ⚡ Fun fact **I tend to "yap" a lot 😔**
+- ⚡ Fun fact: **I tend to "yap" a lot (allegedly) 😔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
