@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeffrey</h1>
-<h3 align="center">A computer engineering student passionate about frontend/backend development and making a difference through code.</h3>
+<h3 align="center">A computer engineering student passionate about frontend/backend development 
+  and making a difference through code.</h3>
 
 - 🌱 I’m currently learning **PyTorch, React, and Azure**
 
