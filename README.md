@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jeffrey</h1>
-<h3 align="center">A computer engineering student passionate about frontend and backend development</h3>
+<h3 align="center">A computer engineering student passionate about frontend/backend development and making a difference through code.</h3>
 
-- 🌱 I’m currently learning **pytorch, react, and Azure**
+- 🌱 I’m currently learning **PyTorch, React, and Azure**
 
 - 👨‍💻 All of my projects are available at [jeffrey.huang.me](jeffrey.huang.me)
 
 - 💬 Ask me about **ECE @ UWaterloo or any of my projects**
 
-- 📫 How to reach me: ![My Email!](jeffrey.huang3@uwaterloo.ca)
+- 📫 How to reach me: **jeffrey.huang3@uwaterloo.ca**
 
-- 📄 Know about my experiences [https://jeffreyhuang.me/JeffreyResume.pdf](https://jeffreyhuang.me/JeffreyResume.pdf)
+- 📄 Learn about my experiences: [https://jeffreyhuang.me/JeffreyResume.pdf](https://jeffreyhuang.me/JeffreyResume.pdf)
 
 - ⚡ Fun fact **I tend to "yap" a lot 😔**
 
