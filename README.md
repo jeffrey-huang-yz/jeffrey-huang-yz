@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ECE @ UWaterloo or any of my projects**
 
-- 📫 How to reach me **jeffrey.huang3@uwaterloo.ca**
+- 📫 How to reach me: ![My Email!](jeffrey.huang3@uwaterloo.ca)
 
 - 📄 Know about my experiences [https://jeffreyhuang.me/JeffreyResume.pdf](https://jeffreyhuang.me/JeffreyResume.pdf)
 
@@ -24,5 +24,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jeffrey-huang-yz&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeffrey-huang-yz&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-huang-yz&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
