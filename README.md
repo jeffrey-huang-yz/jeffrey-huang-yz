@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **PyTorch, React, and Azure**
 
-- 👨‍💻 All of my projects are available at [jeffrey.huang.me](jeffrey.huang.me)
+- 👨‍💻 All of my projects are available at [jeffrey.huang.me](https://jeffrey.huang.me)
 
 - 💬 Ask me about **ECE @ UWaterloo or any of my projects**
 
