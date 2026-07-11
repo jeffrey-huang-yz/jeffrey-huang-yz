@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **ECE @ UWaterloo or any of my projects**
 
-- 📫 How to reach me: **jeffrey.huang3@uwaterloo.ca**
+- 📫 How to reach me: **j222huan@uwaterloo.ca**
 
 - 📄 Learn about my experiences: [https://jeffreyhuang.me/JeffreyResume.pdf](https://jeffreyhuang.me/JeffreyResume.pdf)
 
