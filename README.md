@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeffrey</h1>
-<h3 align="center">An ECE student passionate about frontend/backend development and making a difference through code.</h3>
+<h3 align="center">An ECE student passionate about frontend/backend development and improving user experiences through code</h3>
 
 # 💫 About Me:
 - 🌱 I’m currently learning **PyTorch, React, and Azure**
