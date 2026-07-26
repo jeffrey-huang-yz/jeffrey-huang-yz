@@ -2,7 +2,7 @@
 <h3 align="center">An ECE student passionate about frontend/backend development and improving user experiences through code</h3>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **PyTorch, React, and Azure**
+- 🌱 I’m currently learning **web scraping**
 
 - 👨‍💻 All of my projects are available at [jeffrey.huang.me](https://jeffreyhuang.me)
 
